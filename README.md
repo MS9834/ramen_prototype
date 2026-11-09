@@ -8,6 +8,7 @@
 |---|---|
 | 컵라면 만들기 (v3) | https://ms9834.github.io/ramen_prototype/ |
 | 새롱분식점 미니게임 (v14) | https://ms9834.github.io/ramen_prototype/snackbar.html |
+| 새롱분식점 미니게임 (v19, 최신) | https://ms9834.github.io/ramen_prototype/snackbar_v19.html |
 
 예전 링크(`version-each.html`, `version-once.html`)로 들어와도 최신 컵라면 만들기 게임이 열립니다.
 
